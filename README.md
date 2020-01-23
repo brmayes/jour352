@@ -1,5 +1,4 @@
-# Interactive Design and Development (JOUR 352)
-## Spring 2020; Wednesday 9-11:45 am, Office hours by appointment
+### Spring 2020; Wednesday 9-11:45 am, Office hours by appointment
 Instructor: Brittany Renee Mayes
 
 Email: [brmayes@umd.edu](mailto:brmayes@umd.edu)
