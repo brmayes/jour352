@@ -1,7 +1,8 @@
 # Interactive Design and Development (JOUR 352)
 ## Spring 2020; Wednesday 9-11:45 am, Office hours by appointment
 Instructor: Brittany Renee Mayes
-Email: brmayes@umd.edu
+
+Email: [brmayes@umd.edu](mailto:brmayes@umd.edu)
 
 **Prerequisites:** For undergrads taking JOUR 352, it is JOUR 262 or 202. For master's students: JOUR 504 or 604 (for certificate students) is a pre- or co-requisite.
 
@@ -76,17 +77,29 @@ Assignments will be graded for accuracy, fairness, meeting of deadlines, substan
 
 Minus and plus grading will be assessed as follows:
 98-100 = A+
+
 93-97 = A
+
 90-92 = A-
+
 88-89 = B+
+
 83-87 = B
+
 80-82 = B-
+
 78-79 = C+
+
 73-77 = C
+
 70-72 = C-
+
 68-69 = D+
+
 63-67 = D
+
 60-62 = D-
+
 0-59 = F
 
 ### Attendance and punctuality
