@@ -1,8 +1,6 @@
 # Class 1: Introductions and Intro to HTML
 
-## Slide decks
-* [Welcome to 352](../_classes/class-1/welcome-to-352.pptx)
-* [HTML Basics](../_classes/class-1/html-basics.pptx)
+## [Slide decks](https://github.com/brmayes/jour352/tree/master/_classes/class-1)
 
 ## Homework
 ### Textbook readings
