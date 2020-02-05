@@ -11,3 +11,6 @@
 ### Codecademy
 * Codecademy HTML Document Standards: exercises 6-14
 * Codecademy Learn CSS: all CSS Setup and Selectors
+
+### If you want more on today's lesson:
+* [Github for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
