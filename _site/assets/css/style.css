@@ -321,3 +321,7 @@ a:hover { text-decoration: underline; }
 header ul { padding-left: 0; list-style-type: none; display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; max-width: 60%; margin: 10px auto 0; grid-column-gap: 5px; }
 header ul li a { width: 100px; }
 header .btn.disabled { pointer-events: none; cursor: inherit; color: rgba(255, 255, 255, 0.3); }
+
+#homework { margin-bottom: 0; font-weight: bold; }
+
+#textbook-readings { margin-top: 0; }
