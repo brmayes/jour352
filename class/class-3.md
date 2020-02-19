@@ -7,7 +7,7 @@
 * Colors: 247-262
 * Boxes: 300-328
 
-### Homework
+### Assignments
 * HTML resume part 1
 
 ### Watch
