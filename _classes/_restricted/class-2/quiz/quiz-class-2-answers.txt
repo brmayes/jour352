@@ -1,0 +1,16 @@
+1. DOCTYPE
+2. html
+3. head
+4. title
+5. Philodendrons
+6. body
+7. h1
+8. h5
+9. img
+10. p
+11. strong
+12. ul
+
+Bonus:
+13. link
+14. a

@@ -1,0 +1,9 @@
+img {
+    max-width: 350px;
+    float: right;
+    margin-left: 20px;
+}
+
+body {
+    padding: 50px;
+}

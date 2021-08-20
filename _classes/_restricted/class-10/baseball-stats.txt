@@ -1,0 +1,26 @@
+Rk -- rank
+Pos -- position
+Name -- name
+Age -- age
+G -- games_played
+PA -- plate_appearances
+AB -- at_bats
+R -- runs_scored
+H -- hits
+2B -- doubles_hit
+3B -- triples_hit
+HR -- homers
+RBI -- runs_batted_in
+SB -- stolen_bases
+CS -- caught_stealing
+BB -- walks
+SO -- strikeouts
+BA -- batting_avg (hits/at_bats)
+OBP -- on base percentage
+SLG -- slugging percentage
+TB -- total bases
+GDP -- grounded into double plays
+HBP -- hit by pitch
+SH -- sacrifice hits (bunts)
+SF -- sacrifice flies
+IBB -- intentional bases on balls

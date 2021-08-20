@@ -1,0 +1,129 @@
+body {
+    font-family: "Raleway", sans-serif;
+    width: 60%;
+    margin: 60px auto;
+}
+
+.topper {
+    margin: 40px 0;
+}
+
+.kicker {
+    text-transform: uppercase;
+    color: #777;
+    letter-spacing: 3px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  margin-bottom: 20px;
+}
+
+.about {
+    color: #83a2a3;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.about h2 {
+    text-transform: uppercase;
+    border-top: 2px dotted #ccc;
+    border-bottom: 2px dotted #ccc;
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px 0;
+    letter-spacing: 3px;
+}
+
+.about p {
+    width: 80%;
+    margin: 20px auto;
+}
+
+h3 {
+    color: #b50938;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    border-bottom: 2px dotted #ccc;
+    padding-bottom: 8px;
+    max-width: 45%;
+    margin-top: 50px;
+}
+
+.food {
+    margin: 0 auto;
+}
+
+h5 {
+    font-weight: 700;
+    font-size: 16px;
+    margin-bottom: 0;
+}
+
+h6 {
+    font-size: 16px;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    color: #b50938;
+    letter-spacing: 2px;
+}
+
+li {
+    list-style-type: square;
+}
+
+.price {
+    font-style: italic;
+}
+
+.sides h5 {
+    margin-top: 5px;
+    font-weight: 400;
+}
+
+.note {
+    font-style: italic;
+    color: #999;
+}
+
+.footer {
+    margin: 50px auto;
+    color: #83a2a3;
+}
+
+.footer p {
+    margin: 8px 0;
+}
+
+a {
+    color: #b50938;
+}
+
+.highlight {
+    border: 2px dotted #ccc;
+    padding-left: 16px;
+    background-color: rgba(131, 162, 163, 0.2);
+}
+
+.highlight h5 {
+    margin-top: 16px;
+}
+
+p.booking {
+    color: black;
+    font-weight: bold;
+    margin-top: 16px;
+}
+
+.event-space {
+    float: right;
+    width: 40%;
+    margin-left: 30px;
+}
